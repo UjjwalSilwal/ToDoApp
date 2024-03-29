@@ -1,4 +1,4 @@
-# ToDoApp
+## To-Do-App
  To Do App made with MERN stack
 
  This App is made with The help of the following Youtube Channel
@@ -9,5 +9,3 @@ TOPIC: Full Stack ToDo App | Node, React, Express, MongoDB Tutorial
 BY: The Brave Coders
 
 
-This App is my First Successful Project made with the MERN stack.
-From This project, I have 
