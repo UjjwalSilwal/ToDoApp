@@ -33,10 +33,12 @@ See this Tutorial:
 ###### [https://youtu.be/_tOAXtuFIO4?si=tq5hqToIMViWGLvi]
 
 **Example (Inside .env file ) :**
-
+```sh
 MONGODB_URL = mongodb+srv://Ujjwal:<password>@ujjwal.wuovsil.mongodb.net/?retryWrites=true&w=majority
 
  Example:   mongodb+srv://Ujjwal:Wolfman123@ujjwal.wuovsil.mongodb.net/ToDoApp?retryWrites=true&w=majority
+ 
                    ' Wolfman123 ' is dummy password
-          and     ' ToDoApp ' is Database created just right here.
-
+                   
+                   ' ToDoApp ' is Database created just right here.
+```
