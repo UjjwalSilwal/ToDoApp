@@ -1,7 +1,7 @@
 ## To-Do-App (M.E.R.N.)
- To Do App made is with MERN stack ie. ---> (MongoDb batabase, Express js, React framework, Node js)
+ To Do App made is with MERN stack ie. ---> (MongoDb batabase, Express js, React framework, Node js).
  
- This App is made with The help of the following Youtube Channel
+ This App is made with The help of the following Youtube Channel:
  ###### [https://youtu.be/PvMDWbAPPK4?si=Nu_B9uzTrVFDxZFV]
 
 
@@ -26,4 +26,9 @@ $ npm start
 
 ## Remember 
 You have to change the MongoDb_Url code in the **.env** file of the **backend** folder to your own MongoDb_Url code.
+
+## How to make your own MongoDb_Url code:
+See this Tutorial:
+
+###### [https://youtu.be/_tOAXtuFIO4?si=tq5hqToIMViWGLvi]
 
