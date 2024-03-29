@@ -27,5 +27,7 @@ $ npm i
 $ npm start
 ```
 
-## Remember to Change the MONGODB_URL code to replace with our own MongoDb_Url code.
+## Remember 
+
+You have to change the MongoDb_Url code in the **.env** file of the **backend** folder to your own MongoDb_Url code.
 
