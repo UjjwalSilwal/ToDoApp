@@ -1,12 +1,10 @@
-## To-Do-App
- To Do App made with MERN stack
+## To-Do-App (M.E.R.N.)
+ To Do App made is with MERN stack ie. ---> (MongoDb batabase, Express js, React framework, Node js)
 
  This App is made with The help of the following Youtube Channel
+ ###### [https://youtu.be/PvMDWbAPPK4?si=Nu_B9uzTrVFDxZFV]
 
-## Youtube
-TOPIC: Full Stack ToDo App | Node, React, Express, MongoDB Tutorial
 
-BY: The Brave Coders
 
 ## How to Run This Project
 
