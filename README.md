@@ -8,4 +8,8 @@ TOPIC: Full Stack ToDo App | Node, React, Express, MongoDB Tutorial
 
 BY: The Brave Coders
 
+## How to Run This Project
+
+To Run this project you have to go to ** BACKEND **
+
 
