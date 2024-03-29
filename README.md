@@ -8,6 +8,24 @@
 
 ## How to Run This Project
 
-To Run this project you have to go to ** BACKEND **
+To Run this project you have to open this folder in VS-code. And type :
 
+**For Backend**
+
+```sh
+$ cd backend
+$ npm i
+$ nodemon Server.js
+```
+
+**For Frontend**
+
+```sh
+$ cd ..
+$ cd frontend
+$ npm i 
+$ npm start
+```
+
+## Remember to Change the MONGODB_URL code to replace with our own MongoDb_Url code.
 
