@@ -40,5 +40,5 @@ MONGODB_URL = mongodb+srv://Ujjwal:<password>@ujjwal.wuovsil.mongodb.net/?retryW
  
                    ' Wolfman123 ' is dummy password
                    
-                   ' ToDoApp ' is Database created just right here.
+                   ' ToDoApp ' is Database created indide the MongoDb.
 ```
