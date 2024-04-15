@@ -1,0 +1,24 @@
+node --version == v20.12.2  //Download on window
+npm --version == 10.5.0
+
+Main Folder:
+    -ECOMMERCE_PROJECT_V2
+
+VS-code: 
+   -Extensions :
+        -Code Runner
+        -ES7+ React/Redux/React-Native snippets
+        -Git
+        -gitignore
+        -IntelliCode
+        -JavaScript(ES6)
+        -Tailwind CSS intellisense
+
+Tailwind Css :
+    -tailwind css with vite :
+        -npm create vite@latest my-project -- --template react
+
+
+To gitignore:
+    git rm --cached <filename>
+    git commit -m "Remove <filename> file from tracking"
