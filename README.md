@@ -1,3 +1,9 @@
+<h2>Output</h2>
+<p align="center">
+  <img src="outputImage.png" alt="" width="80%">
+  <img src="outputImage2.png" alt="" width="80%">
+</p>
+
 ## To-Do-App (M.E.R.N.)
  To Do App made is with MERN stack ie. ---> (MongoDb batabase, Express js, React framework, Node js).
  
@@ -41,5 +47,3 @@ MONGODB_URL = mongodb+srv://Ujjwal:<password>@ujjwal.wuovsil.mongodb.net/?retryW
                    ' ToDoApp ' is Database created indide the MongoDb.
 ```
 
-# Deployment : 
-[https://ujjwalsilwal.github.io/ToDoApp/]
